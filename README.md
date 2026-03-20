@@ -1,16 +1,55 @@
-## Hi there 👋
+## Hi there 👋, I'm Kavana P
 
-<!--
-**Kavana-Padmakumar/Kavana-Padmakumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Computer Science Engineering Student | Tech Enthusiast
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👩‍💻 About Me
+
+🎓 CSE Student (VTU)
+
+🇮🇳 Based in India
+
+💡 Passionate about building and learning in tech
+
+🧠 Interested in:
+
+Artificial Intelligence
+
+Machine Learning
+
+Data Science
+
+Cloud Computing
+
+Cybersecurity
+
+---
+
+🛠️ Tech Stack
+
+💻 Languages: C, Python, Java, SQL
+
+⚙️ Tools: Git, GitHub, Canva
+
+---
+
+📈 What I Do
+
+💻 Exploring real-world problem solving through code
+
+⚡ Improving programming and development skills
+
+🌱 Continuously learning new technologies
+
+---
+
+📫 Connect With Me
+
+✉️ Email: kavanapcse1@gmail.com
+
+💼 LinkedIn: linkedin.com/in/kavana-padmakumar-1a457b393
+
+---
+
+⭐ "Consistency > Motivation"
