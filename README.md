@@ -35,9 +35,7 @@ class Kavana:
         self.interests = [
             "Artificial Intelligence",
             "Machine Learning",
-            "Data Science",
-            "Cloud Computing",
-            "Cybersecurity"
+            "Data Science"
         ]
 
         self.current_focus = [
