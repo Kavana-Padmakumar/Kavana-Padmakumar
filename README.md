@@ -189,14 +189,6 @@ Learning → Building → Testing → Improving
 
 ---
 
-# 🔥 Contribution Streak
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=kavanapcse1&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 # 🐍 My Contribution Graph
 
 <p align="center">
@@ -221,7 +213,7 @@ Learning → Building → Testing → Improving
 ☐ Build a portfolio I'm genuinely proud of
 ```
 
-### Progress
+### 📈 Progress
 
 `Coding`          █████████░░ 80%
 
